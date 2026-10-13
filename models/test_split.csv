@@ -1,0 +1,43 @@
+complaint_id,complaint_text,service_category,sentiment,priority,location,transit_mode
+PMP-2026-0209,Well-designed tactile walkway at Swargate underground Metro station.,Route & Infrastructure,Positive,Low,Swargate,Pune Metro (Purple Line)
+PMP-2026-0205,PMPML bus stand at Bhosari has water puddles and no paved walking path for commuters.,Route & Infrastructure,Negative,Medium,Bhosari,PMPML Bus
+PMP-2026-0097,Is the daily ₹50 pass valid on both PMPML regular buses and electric AC buses?,Ticketing & Conductor,Neutral,Low,Pune Station,PMPML Bus
+PMP-2026-0018,"Driver deliberately cut across three lanes near Nal Stop junction, causing panic among passengers.",Driver Behavior & Safety,Negative,High,Deccan Gymkhana,PMPML Bus
+PMP-2026-0056,What is the current operational schedule of late evening buses from Pune Station to Kondhwa?,Bus Frequency & Delay,Neutral,Low,Pune Station,PMPML Bus
+PMP-2026-0123,Broken sharp metal edge protruding from seat handle cut a passenger's arm near Chandani Chowk.,Cleanliness & Vehicle Condition,Negative,High,Chandani Chowk,PMPML Bus
+PMP-2026-0030,Driver waited an extra minute so a running commuter could catch the morning Metro feeder bus.,Driver Behavior & Safety,Positive,Low,PCMC,PMPML Bus
+PMP-2026-0149,Students forced to stand on footboard on route 103 due to lack of extra buses during school hours.,Overcrowding & Accessibility,Negative,High,Deccan Gymkhana,PMPML Bus
+PMP-2026-0070,Metro feeder bus departed immediately as commuters exited Bhosari station. Well synchronized.,Bus Frequency & Delay,Positive,Low,Bhosari,Pune Metro (Purple Line)
+PMP-2026-0064,Why did route 114 terminate at Katraj bypass instead of completing full route to Gujar Nimbalkarwadi?,Bus Frequency & Delay,Negative,Medium,Katraj,PMPML Bus
+PMP-2026-0079,Conductor spoke politely and returned accurate change to all passengers without any fuss.,Ticketing & Conductor,Positive,Low,Hadapsar,PMPML Bus
+PMP-2026-0112,Seats in the newly inducted electric bus were comfortable and the interior was clean and fresh.,Cleanliness & Vehicle Condition,Positive,Low,Viman Nagar,PMPML Electric Bus (e-Bus)
+PMP-2026-0083,Smooth ticketing via PMPML e-ticketing mobile app. Conductor verified digital ticket promptly.,Ticketing & Conductor,Positive,Low,Kothrud,PMPML Bus
+PMP-2026-0180,"Rainbow BRTS lane barriers near Swargate broken, private two-wheelers and autos blocking bus passage.",Route & Infrastructure,Negative,High,Swargate,Rainbow BRTS
+PMP-2026-0078,Conductor refused to give ticket to passenger paying via UPI stating QR machine battery was dead.,Ticketing & Conductor,Negative,Medium,Baner,PMPML Bus
+PMP-2026-0076,"Conductor charged ₹25 instead of regular ₹15 fare between Deccan and Katraj, claiming revised fare without receipt.",Ticketing & Conductor,Negative,High,Deccan Gymkhana,PMPML Bus
+PMP-2026-0043,Waited 40 mins at Katraj bus terminal for route 298. Staff says three buses skipped their trip today.,Bus Frequency & Delay,Negative,Medium,Katraj,PMPML Bus
+PMP-2026-0114,"Bus suspension is totally worn out, every small pothole on Sinhagad road feels like an earthquake.",Cleanliness & Vehicle Condition,Negative,Medium,Sinhagad Road,PMPML Bus
+PMP-2026-0207,Smooth feeder service connecting PCMC metro station to auto cluster IT offices.,Route & Infrastructure,Positive,Low,PCMC,PMPML Bus
+PMP-2026-0050,Route 158 from Manapa to Vadgaon Sheri is always missing during morning office rush hours.,Bus Frequency & Delay,Negative,Medium,Shivaji Nagar,PMPML Bus
+PMP-2026-0139,PMPML bus depot staff in Kothrud washed and sanitized buses before early morning dispatch.,Cleanliness & Vehicle Condition,Positive,Low,Kothrud,PMPML Bus
+PMP-2026-0073,Conductor on bus MH-12-PQ-9912 was extremely rude and pushed student showing valid PMPML monthly pass.,Ticketing & Conductor,Negative,High,Kothrud,PMPML Bus
+PMP-2026-0004,Driver refused to stop at the designated stop at Kothrud Stand and sped past despite passengers waving.,Driver Behavior & Safety,Negative,Medium,Kothrud,PMPML Bus
+PMP-2026-0145,Metro train was comfortably spaced and security guard ensured orderly boarding inside women's coach.,Overcrowding & Accessibility,Positive,Low,Civil Court,Pune Metro (Aqua Line)
+PMP-2026-0198,Clear route map displayed on board at Vishrantwadi terminal made bus change very simple.,Route & Infrastructure,Positive,Low,Vishrantwadi,PMPML Bus
+PMP-2026-0168,Pregnant lady forced to stand for 45 minutes on route 170 because youth refused to vacate reserved seat.,Overcrowding & Accessibility,Negative,High,Pune Station,PMPML Bus
+PMP-2026-0147,No priority boarding given to mothers with infants at crowded Katraj bus stop during rush hour.,Overcrowding & Accessibility,Negative,Medium,Katraj,PMPML Bus
+PMP-2026-0010,Driver stopped slightly ahead of the zebra crossing but was otherwise polite and drove fine.,Driver Behavior & Safety,Neutral,Low,Pune Station,PMPML Bus
+PMP-2026-0152,Elderly passenger fell due to heavy push from crowd rushing inside bus at Pune Station depot.,Overcrowding & Accessibility,Negative,High,Pune Station,PMPML Bus
+PMP-2026-0188,Newly paved smooth BRTS lane on Alandi road has reduced travel time significantly. Good initiative.,Route & Infrastructure,Positive,Low,Alandi,Rainbow BRTS
+PMP-2026-0179,Clear bilingual Marathi and English signage installed across all Pune Metro interchange stations.,Route & Infrastructure,Positive,Low,Civil Court,Pune Metro (Aqua Line)
+PMP-2026-0042,Bus frequency between Baner and Pune University has improved noticeably this week. Good job.,Bus Frequency & Delay,Positive,Low,Baner,PMPML Bus
+PMP-2026-0173,Passengers crushed against closing doors of overcrowded bus at Alandi depot.,Overcrowding & Accessibility,Negative,High,Alandi,PMPML Bus
+PMP-2026-0016,The driver was smoking bidi inside the bus cabin while halted at Wagholi terminal.,Driver Behavior & Safety,Negative,High,Wagholi,PMPML Bus
+PMP-2026-0148,Metro elevator at Shivaji Nagar station was functional and helped disabled passenger reach concourse easily.,Overcrowding & Accessibility,Positive,Low,Shivaji Nagar,Pune Metro (Purple Line)
+PMP-2026-0126,Are cleaning schedules published for PMPML depots in Pune?,Cleanliness & Vehicle Condition,Neutral,Low,Katraj,PMPML Bus
+PMP-2026-0108,"Bus interior was completely dirty with garbage, gutkha stains on floor and torn seat cushions.",Cleanliness & Vehicle Condition,Negative,Medium,Swargate,PMPML Bus
+PMP-2026-0014,Driver patiently waited for a physically challenged passenger to comfortably sit before starting bus.,Driver Behavior & Safety,Positive,Low,Kothrud,PMPML Bus
+PMP-2026-0109,Rainwater leaking heavily from roof of PMPML bus onto passengers during Pune monsoon downpour.,Cleanliness & Vehicle Condition,Negative,High,Shivaji Nagar,PMPML Bus
+PMP-2026-0061,Waited 1 hour 15 mins for bus 144 on Sinhagad road. School children were stranded in the evening.,Bus Frequency & Delay,Negative,High,Sinhagad Road,PMPML Bus
+PMP-2026-0026,"Driver took a sharp turn without indicator, almost colliding with a PMPML bus on adjacent lane.",Driver Behavior & Safety,Negative,High,Shivaji Nagar,PMPML Bus
+PMP-2026-0075,Metro automated ticket vending machine at Civil Court swallowed ₹100 note without issuing ticket.,Ticketing & Conductor,Negative,High,Civil Court,Pune Metro (Aqua Line)
