@@ -1,0 +1,493 @@
+{
+  "categories": [
+    "Traffic Congestion & Bottlenecks",
+    "Traffic Signal Breakdown & Timing",
+    "Illegal & Obstructive Parking",
+    "Reckless & Wrong-Side Driving",
+    "Road Hazards, Potholes & Waterlogging",
+    "Encroachment & Footpath Obstruction"
+  ],
+  "classification_models": {
+    "Multinomial Naive Bayes": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "precision_weighted": 1.0,
+      "recall_macro": 1.0,
+      "recall_weighted": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "confusion_matrix": [
+        [
+          21,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          21,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          21,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          21
+        ]
+      ],
+      "classification_report": {
+        "Traffic Congestion & Bottlenecks": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Traffic Signal Breakdown & Timing": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Illegal & Obstructive Parking": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Reckless & Wrong-Side Driving": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Road Hazards, Potholes & Waterlogging": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Encroachment & Footpath Obstruction": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        }
+      }
+    },
+    "Logistic Regression": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "precision_weighted": 1.0,
+      "recall_macro": 1.0,
+      "recall_weighted": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "confusion_matrix": [
+        [
+          21,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          21,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          21,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          21
+        ]
+      ],
+      "classification_report": {
+        "Traffic Congestion & Bottlenecks": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Traffic Signal Breakdown & Timing": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Illegal & Obstructive Parking": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Reckless & Wrong-Side Driving": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Road Hazards, Potholes & Waterlogging": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Encroachment & Footpath Obstruction": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        }
+      }
+    },
+    "Linear SVM": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "precision_weighted": 1.0,
+      "recall_macro": 1.0,
+      "recall_weighted": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "confusion_matrix": [
+        [
+          21,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          21,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          21,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          21
+        ]
+      ],
+      "classification_report": {
+        "Traffic Congestion & Bottlenecks": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Traffic Signal Breakdown & Timing": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Illegal & Obstructive Parking": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Reckless & Wrong-Side Driving": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Road Hazards, Potholes & Waterlogging": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Encroachment & Footpath Obstruction": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 126.0
+        }
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.9921,
+      "precision_macro": 0.9924,
+      "precision_weighted": 0.9924,
+      "recall_macro": 0.9921,
+      "recall_weighted": 0.9921,
+      "f1_macro": 0.9921,
+      "f1_weighted": 0.9921,
+      "confusion_matrix": [
+        [
+          20,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          21,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          21,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          21
+        ]
+      ],
+      "classification_report": {
+        "Traffic Congestion & Bottlenecks": {
+          "precision": 1.0,
+          "recall": 0.9523809523809523,
+          "f1-score": 0.975609756097561,
+          "support": 21.0
+        },
+        "Traffic Signal Breakdown & Timing": {
+          "precision": 0.9545454545454546,
+          "recall": 1.0,
+          "f1-score": 0.9767441860465116,
+          "support": 21.0
+        },
+        "Illegal & Obstructive Parking": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Reckless & Wrong-Side Driving": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Road Hazards, Potholes & Waterlogging": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "Encroachment & Footpath Obstruction": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "accuracy": 0.9920634920634921,
+        "macro avg": {
+          "precision": 0.9924242424242425,
+          "recall": 0.9920634920634921,
+          "f1-score": 0.9920589903573455,
+          "support": 126.0
+        },
+        "weighted avg": {
+          "precision": 0.9924242424242424,
+          "recall": 0.9920634920634921,
+          "f1-score": 0.9920589903573453,
+          "support": 126.0
+        }
+      }
+    }
+  },
+  "best_model": "Multinomial Naive Bayes",
+  "dataset_statistics": {
+    "total_records": 630,
+    "train_records": 504,
+    "test_records": 126,
+    "typo_percentage": 53.81,
+    "all_lowercase_percentage": 65.71,
+    "multi_location_percentage": 17.78,
+    "multi_problem_percentage": 17.14
+  },
+  "location_ner_metrics": {
+    "precision": 0.961,
+    "recall": 0.9933,
+    "f1_score": 0.9769,
+    "exact_match_rate": 0.9444,
+    "true_positives": 148,
+    "false_positives": 6,
+    "false_negatives": 1,
+    "total_gold": 149,
+    "total_pred": 154,
+    "subgroup_robustness": {
+      "has_typos": {
+        "precision": 0.9481,
+        "recall": 0.9865,
+        "f1": 0.9669,
+        "count": 74
+      },
+      "is_all_lowercase": {
+        "precision": 0.945,
+        "recall": 1.0,
+        "f1": 0.9717,
+        "count": 103
+      },
+      "is_multi_location": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "count": 46
+      }
+    }
+  }
+}
